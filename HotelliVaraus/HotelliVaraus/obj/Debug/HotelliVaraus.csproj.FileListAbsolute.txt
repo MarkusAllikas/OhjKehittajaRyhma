@@ -1,0 +1,10 @@
+C:\Users\markus.allikas\source\repos\HotelliVaraus\HotelliVaraus\bin\Debug\HotelliVaraus.exe.config
+C:\Users\markus.allikas\source\repos\HotelliVaraus\HotelliVaraus\bin\Debug\HotelliVaraus.exe
+C:\Users\markus.allikas\source\repos\HotelliVaraus\HotelliVaraus\bin\Debug\HotelliVaraus.pdb
+C:\Users\markus.allikas\source\repos\HotelliVaraus\HotelliVaraus\obj\Debug\HotelliVaraus.csprojAssemblyReference.cache
+C:\Users\markus.allikas\source\repos\HotelliVaraus\HotelliVaraus\obj\Debug\HotelliVaraus.Form1.resources
+C:\Users\markus.allikas\source\repos\HotelliVaraus\HotelliVaraus\obj\Debug\HotelliVaraus.Properties.Resources.resources
+C:\Users\markus.allikas\source\repos\HotelliVaraus\HotelliVaraus\obj\Debug\HotelliVaraus.csproj.GenerateResource.cache
+C:\Users\markus.allikas\source\repos\HotelliVaraus\HotelliVaraus\obj\Debug\HotelliVaraus.csproj.CoreCompileInputs.cache
+C:\Users\markus.allikas\source\repos\HotelliVaraus\HotelliVaraus\obj\Debug\HotelliVaraus.exe
+C:\Users\markus.allikas\source\repos\HotelliVaraus\HotelliVaraus\obj\Debug\HotelliVaraus.pdb
